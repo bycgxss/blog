@@ -3,7 +3,7 @@ module.exports = [
       title:'Other',
       collapsable: true,
       children:[
-          './other/01.开发环境搭建.md',
+          './other/01.Mac软件安装与配置.md',
       ],
   },
   {
