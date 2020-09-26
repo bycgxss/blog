@@ -4,6 +4,7 @@ module.exports = [
       collapsable: true,
       children:[
           './other/01.Mac软件安装与配置.md',
+          './other/02.命令行入门.md'
       ],
   },
   {

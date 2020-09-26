@@ -11,7 +11,7 @@ cd ./public
 # echo 'www.bycgxss.top' > CNAME
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m 'update'
 
 # 如果发布到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
