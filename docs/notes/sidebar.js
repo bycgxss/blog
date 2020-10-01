@@ -14,7 +14,8 @@ module.exports = [
     children:[
         './html/01.html概述.md',
         './html/02.html常用标签.md',
-        './html/03.html重点标签.md'
+        './html/03.html重点标签.md',
+        './html/04.form表单.md'
     ],
   },
 ]
