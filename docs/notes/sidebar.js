@@ -29,7 +29,7 @@ module.exports = [
     title:'JavaScript',
     collapsable: true,
     children:[
-        
+       './javascript/01.javascript概述.md'
     ],
   },
   {
