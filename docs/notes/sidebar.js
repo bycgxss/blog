@@ -25,7 +25,8 @@ module.exports = [
        './css/01.css概述.md',
        './css/02.css选择器.md',
        './css/03.css优先级.md',
-       './css/04.css盒模型.md' 
+       './css/04.css盒模型.md',
+       './css/05.css常见样式.md' 
     ],
   },
   {
