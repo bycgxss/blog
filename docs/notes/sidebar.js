@@ -27,7 +27,8 @@ module.exports = [
        './css/03.css优先级.md',
        './css/04.css盒模型.md',
        './css/05.css常见样式.md',
-       './css/06.浮动布局.md'
+       './css/06.浮动布局.md',
+       './css/07.定位布局.md'
     ],
   },
   {
